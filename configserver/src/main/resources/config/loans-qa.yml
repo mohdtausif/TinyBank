@@ -1,0 +1,8 @@
+spring:
+   application:
+      name: loans
+
+app:
+   env:
+      name: loans-qa
+      

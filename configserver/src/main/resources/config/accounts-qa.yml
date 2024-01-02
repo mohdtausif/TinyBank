@@ -1,0 +1,8 @@
+spring:
+   application:
+      name: accounts
+
+app:
+   env:
+      name: account-qa
+      
