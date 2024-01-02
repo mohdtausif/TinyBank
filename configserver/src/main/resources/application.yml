@@ -1,0 +1,13 @@
+server:
+   port: 8071
+spring:
+   application:
+      name: "configserver"
+   profile:
+      active: native
+   cloude:
+      config:
+         server:
+            native:
+               search-location: "classpath:/config"
+               
